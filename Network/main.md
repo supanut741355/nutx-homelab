@@ -1,1 +1,1 @@
-![](/assets/modem.jpg)
+![](/assets/main-network-home-lab.png)
